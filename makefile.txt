@@ -1,5 +1,0 @@
-echo "## guessinggame.sh for Coursera-The Unix Workbench\n" > README.md
-echo -n "README.md created: " >> README.md
-date >> README.md
-echo -n "\nNumber of lines in guessinggame.sh: " >> README.md
-wc -1 < ./guessinggame.sh >> README.md
